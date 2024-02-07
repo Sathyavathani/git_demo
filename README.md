@@ -1,2 +1,2 @@
 # git_demo
-Author-sathyavathani
+Author-sathya nandha kumar
